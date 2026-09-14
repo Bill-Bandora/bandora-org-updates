@@ -1,18 +1,18 @@
 {
-    "schemaVersion":  1,
-    "product":  "BandoraOrg",
-    "channel":  "pilot",
-    "version":  "1.0.0-rc.4",
-    "minimumVersion":  "1.0.0-rc.3",
-    "databaseSchemaVersion":  7,
-    "downloadUrl":  "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.0.0-rc.4/BandoraOrg-Setup-1.0.0-rc.4.exe",
-    "sha256":  "59bcf3fec988631d85cc3822f870ba8e58e42ab5e40954fe76d3be81d5aebf4a",
-    "size":  159404396,
-    "requiresAppRestart":  true,
-    "requiresWindowsRestart":  false,
-    "mandatory":  false,
-    "publishedAt":  "2026-09-14T01:30:31.9432441+00:00",
-    "releaseNotes":  [
-                         "Produktiver RC3→RC4-Kundenpilot mit automatischer Updateprüfung, getrennten Anwendungsdaten, Vor-Update-Backup, Integritätsprüfung, Installation, Healthcheck und Datenerhalt."
-                     ]
+  "schemaVersion": 1,
+  "product": "BandoraOrg",
+  "channel": "pilot",
+  "version": "1.0.0-rc.4.1",
+  "minimumVersion": "1.0.0-rc.4",
+  "databaseSchemaVersion": 7,
+  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.0.0-rc.4.1/BandoraOrg-Setup-1.0.0-rc.4.1.exe",
+  "sha256": "e74d3bb9fabfa68687f90e777743af0b056de31d1db750997d13f5d349399cea",
+  "size": 159400131,
+  "requiresAppRestart": true,
+  "requiresWindowsRestart": false,
+  "mandatory": false,
+  "publishedAt": "2026-09-14T15:54:10.4030077+00:00",
+  "releaseNotes": [
+    "RC4→RC4.1 USB-freier Kundenupdate-Test. Prüft öffentlichen Download, Fortsetzung, Größen- und SHA-256-Verifikation, Vor-Update-Backup, Installation, Healthcheck und Datenerhalt."
+  ]
 }
