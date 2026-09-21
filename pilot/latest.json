@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "product": "BandoraOrg",
   "channel": "pilot",
-  "version": "1.1.0-rc.2",
-  "minimumVersion": "1.0.0-rc.4.1",
-  "databaseSchemaVersion": 8,
-  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.1.0-rc.2/BandoraOrg-Setup-1.1.0-rc.2.exe",
-  "sha256": "b58fef2b298bea82d24d29dfde7c7d8d33d103a60b038b6d0efb7565cfdf29a0",
-  "size": 159424143,
+  "version": "1.1.0-rc.3",
+  "minimumVersion": "1.1.0-rc.2",
+  "databaseSchemaVersion": 9,
+  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.1.0-rc.3/BandoraOrg-Setup-1.1.0-rc.3.exe",
+  "sha256": "24260422bbd3243cb3ea75f96141eea76f5fc9a03a74d6c881d65305b7a49e1c",
+  "size": 161977237,
   "requiresAppRestart": true,
   "requiresWindowsRestart": false,
   "mandatory": false,
-  "publishedAt": "2026-09-16T23:01:50.5033947Z",
+  "publishedAt": "2026-09-21T19:20:40.6702531+00:00",
   "releaseNotes": [
-    "Neue Kundenfunktionen: sichere Löschung von Teilnehmern, Coaches und Maßnahmen; monatliche Terminnachweis-Erinnerungen je Jobcenter; Berücksichtigung gesetzlicher Berliner Feiertage bei der Planung; verbesserte Formularvalidierung ohne Verlust bereits eingegebener Daten; optionale Telefon- und E-Mail-Felder. Enthält die Datenbankschemamigration von Version 7 auf 8 mit automatischem Vor-Update-Backup."
+    "Verbesserte Kundenoberfläche mit einklappbaren Rechnungsfehlern, verständlichen deutschen Dokumentbezeichnungen und neuem Bandora-Wappen. Enthält weitere Bedienungsverbesserungen und die Datenbankschemamigration von Version 8 auf 9. Installation mit automatischem Vor-Update-Backup und Integritätsprüfung; ein Neustart der Anwendung ist erforderlich, ein Windows-Neustart nicht. Kein verpflichtendes Update."
   ]
 }
