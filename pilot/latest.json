@@ -5,13 +5,13 @@
   "version": "1.2.0-rc.2",
   "minimumVersion": "1.1.0-rc.3",
   "databaseSchemaVersion": 13,
-  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.2.0-rc.2-customer-pilot-r03/BandoraOrg-Upgrade-1.1.0-rc.3-to-1.2.0-rc.2-pilot-binding-r03.exe",
-  "sha256": "f63c1377562956c44b0eb3a395abb85d8cb4fcb37a6d68c91681b17018799d17",
-  "size": 103201064,
+  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.2.0-rc.2-customer-pilot-r04/BandoraOrg-Upgrade-1.1.0-rc.3-to-1.2.0-rc.2-pilot-binding-r04.exe",
+  "sha256": "e135759679a7f3dd1fdfc9203e72338220e16195c41cbb193140203e1333637f",
+  "size": 103198953,
   "requiresAppRestart": true,
   "requiresWindowsRestart": false,
   "mandatory": false,
-  "publishedAt": "2026-10-28T23:52:53.227Z",
+  "publishedAt": "2026-11-02T13:41:32.3067718Z",
   "releaseNotes": [
     "Kontrolliertes Bandora Org 1.2.0-rc.2 Pilot-Upgrade mit verifiziertem RC3-Backup, Datenmigration und sicherem Rollback."
   ]
