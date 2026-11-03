@@ -5,14 +5,14 @@
   "version": "1.2.0-rc.2",
   "minimumVersion": "1.1.0-rc.3",
   "databaseSchemaVersion": 13,
-  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.2.0-rc.2-customer-pilot-r06/BandoraOrg-Upgrade-1.1.0-rc.3-to-1.2.0-rc.2-pilot-binding-r06.exe",
-  "sha256": "68f39a571d8aefee77dc5589c9b79799946de0f43a6bf30d8171b16404aba189",
-  "size": 103209026,
+  "downloadUrl": "https://github.com/Bill-Bandora/bandora-org-updates/releases/download/v1.2.0-rc.2-customer-pilot-r07/BandoraOrg-Upgrade-1.1.0-rc.3-to-1.2.0-rc.2-pilot-binding-r07.exe",
+  "sha256": "434d5f5857b1703686332c3cb54497720b2782881d158726e836e00971982611",
+  "size": 103211233,
   "requiresAppRestart": true,
   "requiresWindowsRestart": false,
   "mandatory": false,
-  "publishedAt": "2026-11-03T11:50:14.740Z",
+  "publishedAt": "2026-11-03T13:02:12.178Z",
   "releaseNotes": [
-    "Kontrolliertes Pilot-Upgrade mit dauerhaft protokollierten Upgradephasen, verifiziertem Backup, Datenabgleich und geprüftem Rollback. Installation nur nach frischer Operator-Freigabe."
+    "Verbesserte Updatezuverlässigkeit bei Windows-Benutzernamen mit Umlauten. Geprüftes Backup, Datenabgleich und Wiederherstellung. Installation nur nach frischer Operator-Freigabe."
   ]
 }
